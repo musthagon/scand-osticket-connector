@@ -1,7 +1,6 @@
 <?php
 /**
 * @package Scand_osTicket_Connector
-* @version 1.0.0
 */
 
 /*
@@ -10,7 +9,7 @@ Plugin URI: https://wordpress.org/plugins/scand-osticket-connector/
 Description: Create tickets in osTicket support system via the existing contact form.
 Text Domain: scand-osticket-connector
 Domain Path: /languages
-Version: 1.0.1
+Version: 1.0.5
 Author: SCAND Ltd.
 Author email: wordpress@scand.com
 Author URI: http://scand.com/
@@ -30,7 +29,7 @@ If not, see http://www.gnu.org/licenses/gpl.html .
 defined('ABSPATH') || die('No direct script access allowed!');
 
 // Plugin constant
-define('SCAND_OST_CONNECTOR_VERSION', '1.0.1');
+define('SCAND_OST_CONNECTOR_VERSION', '1.0.5');
 define('SCAND_OST_CONNECTOR_TITLE', 'osTicket Connector');
 define('SCAND_OST_CONNECTOR_FILE', __FILE__);
 define('SCAND_OST_CONNECTOR_NAME', 'scand-osticket-connector');
